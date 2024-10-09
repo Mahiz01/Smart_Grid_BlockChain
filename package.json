@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.0.0",
+    "solc": "^0.8.20"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.12"
+  }
+}
