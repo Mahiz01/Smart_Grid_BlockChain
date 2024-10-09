@@ -1,0 +1,8 @@
+go to source folder
+open terminal run ganache-cli
+open another terminal 
+run truffle compile
+run truffle migrate
+get into the src/frontend/src/ 
+install npm -y or npm init
+npm start
