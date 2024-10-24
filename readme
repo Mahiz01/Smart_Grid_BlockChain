@@ -7,3 +7,4 @@ get into the src/frontend/src/
 install npm -y or npm init
 npm start
 #change the Contract address, account address and Ganchae-cli key when ever truffle migrate is done (manually)
+(EnergyTradeform.js, EnergyStatus.js, energyTrader.js)places to change
